@@ -12,6 +12,7 @@
 9. The system shall allow authorized users to manage FYP titles, reports, and progress updates.
 
 ## Non-functional requirements (how the system must PERFORM)
-1. The system shall ... (include a number, for example "within 2 seconds")
-2. The system shall ...
-3. The system shall ...
+1. The system shall display the recommendation list within 5 seconds when ranking up to 100 eligible lecturer records.
+2. The system shall require users to log in before accessing the system.
+3. The system shall have an intuitive navigation that can help users find pages in 5 seconds.
+4. The system shall load pages in 2 to 3 seconds to prevent user frustration.
