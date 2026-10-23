@@ -14,5 +14,5 @@
 ## Non-functional requirements (how the system must PERFORM)
 1. The system shall display the recommendation list within 5 seconds when ranking up to 100 eligible lecturer records.
 2. The system shall require users to log in before accessing the system.
-3. The system shall have an intuitive navigation that can help users find pages in 5 seconds.
-4. The system shall load pages in 2 to 3 seconds to prevent user frustration.
+3. The system shall allow users to find the lecturer profile page within 5 seconds during testing.
+4. The system shall successfully process 20 valid recommendation requests without error during testing.
